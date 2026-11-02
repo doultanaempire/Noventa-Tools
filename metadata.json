@@ -1,0 +1,6 @@
+{
+  "name": "SmartLoansGuide — Loan Calculators & Guides",
+  "description": "Free browser-based loan calculators and plain-English financial guides covering personal loans, mortgages, auto loans, credit cards, debt consolidation, APR with fees, and early payoff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
